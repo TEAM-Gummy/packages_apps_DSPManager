@@ -14,12 +14,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <string-array name="microphone_recording_presets">
         <item>Αρχικό</item>
         <item>Ισορροπημένο</item>
         <item>Υψηλή ευαισθησία</item>
-        <item>Loud Environment</item>
+        <item>Θορυβώδες περιβάλλον</item>
     </string-array>
     <string-array name="headphone_modes">
         <item>Studio</item>
@@ -49,5 +49,10 @@
     <string-array name="wm8994_bassboost_modes">
         <item>Κανονική</item>
         <item>Μικρά ηχεία</item>
+    </string-array>
+    <string-array name="stereowide_modes">
+        <item>Μικρό</item>
+        <item>Μεσαίο</item>
+        <item>Μεγάλο</item>
     </string-array>
 </resources>
